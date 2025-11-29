@@ -1,21 +1,3 @@
-<!-- # Chetan Kumar Singh Portfolio
-
-This is my personal portfolio website showcasing my skills, projects, and services.
-
-## Pages
-- Home: Introduction
-- About: Skills and bio
-- Projects: My main projects
-- Services: What I offer
-- Contact: Contact form & info
-
-## Built With
-- HTML, CSS, JavaScript
-- Responsive Design
-- Animated UI
-- Dark Mode Support -->
-
-
 # 🌟 Hi, I'm Chetan Kumar Singh!
 ### 🚀 Aspiring Full-Stack Developer | AI/ML Enthusiast | Problem Solver
 
@@ -27,7 +9,7 @@ I’m a dedicated **B.Tech CSE student** passionate about building impactful app
 - 💻 New coder leveling up with **Python Full-Stack and AI/ML developer**
 - 🤖 Building **AI-powered applications** that solve real-world problems
 - 🌱 Currently learning: **Artificial intelligence and Machine Learning**
-- 🎯 Goal: Become a **Skilled Full-Stack + AI Engineer**
+- 🎯 Goal: Become a **Skilled Full-Stack + AI/ML Engineer**
 - 🔥 Consistent learner & always building something new
 
 ---
