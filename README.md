@@ -14,22 +14,6 @@ I’m a dedicated **B.Tech CSE student** passionate about building impactful app
 
 ---
 
-## 💼 Featured Projects
-
-### 🛡️ **FraudShield — AI-Powered Fraud Detection System**
-Detect fraudulent patterns in financial transactions using ML + LLM insights.
-
-### 🌍 **EcoAirSense — Pollution Monitoring & Prediction System**
-Uses sensors + ML to visualize pollution levels on a dynamic map.
-
-### 📄 **LexiDoc — Legal Document Analyzer (AI)**
-Summarizes, analyzes, and extracts key insights from legal documents.
-
-### 🛒 **Echocart — Smart Shopping Insights Chrome Extension**
-A Chrome extension that provides AI-based shopping recommendations.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
